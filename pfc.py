@@ -71,7 +71,7 @@ def start():
     
     Le Match commence dans 5 secondes.
           """)
-    time.sleep(1)
+    time.sleep(5)
     
     playerHumain = Player(name='toto')
     playerBot = Player(name='bot')
